@@ -1,0 +1,8 @@
+Wizard Gandalf 100 8 8 3
+Wizard Saruman 100 6 6 1
+Hobbit Frodo 100 3 5 50
+Hobbit Bilbo 100 4 6 128
+Hobbit Sam 100 7 4 38
+Elf Legolas 100 5 7 
+Elf Elrond 100 9 0 
+Flying_Elf Galadriel 100 0 4 
